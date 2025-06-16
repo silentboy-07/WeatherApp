@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val API_BASE_URL = "https://api.openweathermap.org/data/2.5/"
         private const val GEOCODING_API_BASE_URL = "https://api.openweathermap.org/"
-        private const val API_KEY = "64b243b9b92100c1e0ab850583aa1662"
+        private const val API_KEY = "Enter Your API KEY"
         private const val TEMPERATURE_UNIT = "metric"
         private val DATE_FORMATTER = SimpleDateFormat("dd MMMM yyyy", Locale.getDefault())
         private val TIME_FORMATTER = SimpleDateFormat("HH:mm", Locale.getDefault())
