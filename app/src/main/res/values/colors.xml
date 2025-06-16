@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_day">#000000</color> <!-- Black for day -->
+    <color name="text_night">#FFFFFF</color> <!-- White for night -->
+    <!-- or any color you want -->
+
+</resources>
